@@ -1,5 +1,4 @@
 export default function Home({ images }) {
-	console.log(images)
   return (
     <>
       <div id="my-background">
